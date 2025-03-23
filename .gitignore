@@ -1,0 +1,15 @@
+# ignore ALL .log files
+*.log
+# ignore ALL files in ANY directory named temp
+.temp/
+# Node.js dependencies
+node_modules/
+cypress/screenshots/
+cypress/reports/
+cypress/reports/html/index.html
+cypress/reports/html/assets/app.js.LICENSE.txt
+cypress/reports/html/index.html
+cypress/reports/html/assets/app.css
+cypress/reports/html/assets/app.js
+cypress/reports/html/assets/app.js.LICENSE.txt
+cypress/reports/html/index.html
